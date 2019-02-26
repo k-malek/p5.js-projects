@@ -2,7 +2,7 @@ Name ; Link to preview ; Status
 
 Axis ; https://editor.p5js.org/k_malek/present/rP5dwoDyc ; Sketchbook
 Tetrahedra ; https://editor.p5js.org/k_malek/present/tjaBjjf08 ; Done
-Crystallography ; https://editor.p5js.org/k_malek/present/S1S_pzFtX ; Undergo
+Crystallography ; https://editor.p5js.org/k_malek/present/S1S_pzFtX ; Undergo ; Note: http://inzynieria-materialowa.prv.pl/IM01/
 Antiprism ; https://editor.p5js.org/k_malek/present/kBXI01_nP ; Finalization ; Note: upon pressing ctrl solid reveals it's net (irreversibly so far)
 Ideal tail ; https://editor.p5js.org/k_malek/present/eZkvDcVkb ; Finalization - tidying the code ; Note: no code provided yet
 Birthday cake ; https://editor.p5js.org/k_malek/present/CI85kHgAt ; Done ; Note: upon "clicking-off" last candle the cake lands on the table
